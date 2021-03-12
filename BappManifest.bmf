@@ -1,0 +1,12 @@
+Uuid: 1c28841c213c4b7bbb1ca45c26f4d8b3
+ExtensionType: 1
+Name: AutoCompleter
+RepoName: autocompletion
+ScreenVersion: 1.0
+SerialVersion: 2
+MinPlatformVersion: 0
+ProOnly: False
+Author: Tanner Barnes
+ShortDescription: Enables autocompletion within Burp Suite Repeater/Intruder tabs
+EntryPoint: target/BurpSuiteAutoComplete.jar
+BuildCommand: mvn clean install
